@@ -18,14 +18,14 @@ Then program performing visualization of such normal vector to 3D points
 
 **Table holes detection**
 
-[!picture](img_examples/table_holes.png)
+![picture](img_examples/table_holes.png)
 
 
 **Plane visualization**
 
-[!picture](img_examples/plane_visualization.png)
+![picture](img_examples/plane_visualization.png)
 
 
 **Coloring of distance to plane (there are some ducks on the table also) **
 
-[!picture](img_examples/ducks.png)
+![picture](img_examples/ducks.png)
