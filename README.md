@@ -1,13 +1,13 @@
 Algorithm which found equation of table plane by 3D cloud points and image information
 
-**Third party: **
+**Third party:**
 
 ```
 PCLVisualizer
 Opencv
 Some core libraries (yaml parser/converter etc)
 ```
-**Short description: **
+**Short description:**
 
 Algorithm takes on input yaml file from Camera. Algorithm determines from 3D cloud points which are belong to table. 
 Such points are detected by closer location to table holes (each table has round holes which contours can be easily detected)
@@ -26,6 +26,6 @@ Then program performing visualization of such normal vector to 3D points
 ![picture](img_examples/plane_visualization.png)
 
 
-**Coloring of distance to plane (there are some ducks on the table also) **
+**Coloring of distance to plane (there are some ducks on the table also)**
 
 ![picture](img_examples/ducks.png)
